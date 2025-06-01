@@ -6,7 +6,7 @@
 
 [![youtube](https://img.shields.io/badge/video-YouTube-red)]([https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJr](https://www.youtube.com/@kefei5621)
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
+[![modern cpp](https://img.shields.io/badge/code-Python-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-blue) 
 ![](https://img.shields.io/badge/爱好-健身-red)
