@@ -13,7 +13,7 @@
 
 </div>
 
-![头像](C:\Users\ROG\OneDrive\桌面\9b73b15b83e25af4513e9145e6efaf7.jpg)
+![头像](9b73b15b83e25af4513e9145e6efaf7.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/FakeLux/count.svg)
 
